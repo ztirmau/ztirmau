@@ -4,9 +4,9 @@
 
 
 ### 🔭 Current Focus and Interests
-- 🎓 **Uni Degree**: Business Informatics
+- 🎓 **Uni Degree**: Business Informatics -> OpenToWork Oct'27
 - 🐧 **Linux & Desktop Environments**: Sway WM, Debian, bash scripting, system optimization
-- 💻 **Widening my tech stack**: Mastering Python & JavaScript
+- 💻 **Widening my tech stack**: Starting by setting up my own home server :)
 - 🌱 **Learning**: Full-stack web dev, test automation
 - 📊 **Finance**
 - 🧠 **AI**
